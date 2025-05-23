@@ -29,7 +29,7 @@ Funciona via OCR usando tesseract e interação com o teclado do Termux para dig
 # Instalação
 
 ```bash
-git clone https://github.com/mikawr/mika-cheat.git
+git clone https://github.com/mikaelwr/mika-cheat.git
 cd mika-cheat
 chmod +x setup.sh
 ./setup.sh
